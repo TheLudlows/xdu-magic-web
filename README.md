@@ -1,3 +1,3 @@
 # XDU Web - Final Project
 
-Current process: **Pending preparement**.
+Current process: **Fin**.
